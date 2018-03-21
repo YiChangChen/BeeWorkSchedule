@@ -1,0 +1,10 @@
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\bin\Debug\BeeWorkSchedule.exe.config
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\bin\Debug\BeeWorkSchedule.exe
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\bin\Debug\BeeWorkSchedule.pdb
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.csprojResolveAssemblyReference.cache
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.Form1.resources
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.Properties.Resources.resources
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.csproj.GenerateResource.Cache
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.csproj.CoreCompileInputs.cache
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.exe
+D:\C#practice\BeeWorkSchedule\BeeWorkSchedule\obj\Debug\BeeWorkSchedule.pdb
